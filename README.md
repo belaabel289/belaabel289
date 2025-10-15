@@ -34,6 +34,7 @@
 |----|------------|--------------|--------|--------------------|-------------|--------------------|
 | 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan |  |  | |
 | 2 | 01 | 01 | Widget Row dan Column |  |  |  |
+| 11 | 07 | 07 | Manajemen GetX |  |  |  |
 
 
 ---
