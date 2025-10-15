@@ -34,7 +34,8 @@
 |----|------------|--------------|--------|--------------------|-------------|--------------------|
 | 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan |  |  | |
 | 2 | 01 | 01 | Widget Row dan Column |  |  |  |
-| 11 | 07 | 07 | Manajemen GetX |  |  |  |
+| 11 | 07 | 07 | State Management dengan GetX | - | [MODUL-11-GET-X](https://github.com/belaabel289/MODUL-11-GET-X) |
+
 
 
 ---
