@@ -38,19 +38,14 @@ I believe every journey leads us closer to becoming our best selves. 🌱
 
 ---
 
-### 🌿 Nature & Life
-> Hiking · Climbing · Swimming · Rafting · Beach Escapes 🌊  
-> Nature has always been my place of peace and inspiration.
-
----
-
 ### 🎨 Creativity & Expression
 - 🎤 Singing  
 - 💡 Design Thinking & Ideation  
 - 🎬 Exploring visuals and creative projects
 - 🏍️ Adrenaline & Automotive
 - I love challenges and the thrill of speed.
-  
+- 🌿 Hiking · Climbing · Swimming · Rafting · Beach Escapes 🌊  
+> Nature has always been my place of peace and inspiration.
 > “Freedom doesn’t only exist on the road — it’s in how we chase our dreams.” 🏁
 
 ---
