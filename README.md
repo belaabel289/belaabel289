@@ -53,7 +53,7 @@ Nature has always been my place of peace and inspiration.
 ## 🩵 My Learning Journey in Mobile Programming
 
 | No | Tanggal | Praktikum ke | Topik | Laporan Praktikum | Repository | 
-|----|------------|--------------|--------|--------------------|-------------|
+|----|-----------|---------|----------------|----------------|-------------|
 | 1 | o3-29-2025 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan |  |  
 | 2 | 03-09-2025 | 01 | Widget Row dan Column |  |  |  |
 | 3 | 10-09-2025 | 02 | Pengaturan Layout Row & Column |  |  |  |
