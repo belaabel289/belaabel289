@@ -68,14 +68,10 @@ Nature has always been my place of peace and inspiration.
 | 12 | 08 | 08 | Ujian Tengah Semester | [Laporan UTS](https://drive.google.com/drive/u/0/folders/1hUMDy-_-HroB1J8dd2xs6D-WIyiH2h6Q?lfhs=2) | [Repo UTS](https://github.com/belaabel289/UTS) | 
 
 ### ☕ Fun Fact
-> Not everyone is born to conquer the world of code —  
-> but everyone has their own path to define success.  
-> I believe **success isn’t always about mastering everything**,  
-> sometimes it’s simply about having the courage to try,  
-> to keep learning, and to respect how others grow at their own pace.  
-> Because behind every bug lies patience,  
-> and behind every mistake is someone who never stopped trying. ✨  
-
+<p Not everyone is born to conquer the world of code — but everyone has their own path to define success.  
+> I believe **success isn’t always about mastering everything**, sometimes it’s simply about having the courage to try, to keep learning, and to respect how others grow at their own pace. 
+  Because behind every bug lies patience, and behind every mistake is someone who never stopped trying. ✨  
+  
 ---
 
 ### 📊 My GitHub Stats
