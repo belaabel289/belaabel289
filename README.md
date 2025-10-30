@@ -44,7 +44,7 @@ I believe every journey leads us closer to becoming our best selves. 🌱
 - 🎬 Exploring visuals and creative projects
 - 🏍️ Adrenaline & Automotive
 - 🌿 Hiking · Climbing · Swimming · Rafting · Beach Escapes 🌊
-- - I love challenges and the thrill of speed. 
+- I love challenges and the thrill of speed. 
 Nature has always been my place of peace and inspiration.
 “Freedom doesn’t only exist on the road — it’s in how we chase our dreams.” 🏁
 
