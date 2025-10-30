@@ -43,19 +43,27 @@ I believe every journey leads us closer to becoming our best selves. 🌱
 - 💡 Design Thinking & Ideation  
 - 🎬 Exploring visuals and creative projects
 - 🏍️ Adrenaline & Automotive
-- I love challenges and the thrill of speed.
-- 🌿 Hiking · Climbing · Swimming · Rafting · Beach Escapes 🌊  
-> Nature has always been my place of peace and inspiration.
-> “Freedom doesn’t only exist on the road — it’s in how we chase our dreams.” 🏁
+- 🌿 Hiking · Climbing · Swimming · Rafting · Beach Escapes 🌊
+- - I love challenges and the thrill of speed. 
+Nature has always been my place of peace and inspiration.
+“Freedom doesn’t only exist on the road — it’s in how we chase our dreams.” 🏁
 
 ---
 
 ## 🩵 My Learning Journey in Mobile Programming
 
-| No | Minggu ke | Praktikum ke | Topik | Laporan Praktikum | Repository | 
+| No | Tanggal | Praktikum ke | Topik | Laporan Praktikum | Repository | 
 |----|------------|--------------|--------|--------------------|-------------|
-| 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan |  |  
-| 2 | 01 | 01 | Widget Row dan Column |  |  |  |
+| 1 | o3-29-2025 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan |  |  
+| 2 | 03-09-2025 | 01 | Widget Row dan Column |  |  |  |
+| 3 | 10-09-2025 | 02 | Pengaturan Layout Row & Column |  |  |  |
+| 4 | 10-09-2025 | 02 | Widget Flexibel & Expanded |  |  |  |
+| 5 | 17-09-2025 | 03 | Widget Sizedbox, Spacer and Card |  |  |  |
+| 6 | 17-09-2025 | 03 | Widget GridView, ListView, GridView.builder, dan ListView.builder |  |  |  |
+| 7 | 24-09-2025 | 04 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route |  |  |  |
+| 8 | 24-09-2025 | 04 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route |  |  |  |
+| 9 | 1-10-2025 | 05 | StatefulWidget |  |  |  |
+| 10 | 1-10-2025 | 05 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter |  |  |  |
 | 11 | 07 | 07 | State Management dengan GetX | - | [MODUL-11](https://github.com/belaabel289/MODUL-11-GET-X) |
 | 12 | 08 | 08 | Ujian Tengah Semester | [Laporan UTS](https://drive.google.com/drive/u/0/folders/1hUMDy-_-HroB1J8dd2xs6D-WIyiH2h6Q?lfhs=2) | [Repo UTS](https://github.com/belaabel289/UTS) | 
 
