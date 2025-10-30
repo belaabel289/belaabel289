@@ -1,34 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nabilah Ilmiatus Shalihah</h1>
-
-<p align="center">
-💻 <b>Informatics Student</b> | 🚀 <b>Tech & IoT Enthusiast</b> | 📍 <b>Indonesia</b>
-</p>
-
----
-
-### 🧑‍💻 Identitas
-- **Nama:** Nabilah Ilmiatus Shalihah 
-- **NIM:** 230605110155 
-- **Kelas:** Praktikum Mobile C  
-
----
-
-### 🪄 About Me
-- 🎓 Currently studying **Informatics Engineering** at *UIN Maulana Malik Ibrahim Malang*  
-- 🌱 Exploring **Web Development**, **UI/UX Design**, and **IoT**  
-- 💡 Passionate about **Technology**, **IoT**, **Design**, and **Education**  
-- ☕ Fun fact: I enjoy learning new frameworks while sipping coffee  
-
----
-
-### 🌟 Interests & Skills
-- 🔌 **IoT (Internet of Things)** → Smart devices, sensors, and automation  
-- 💻 **Web Development** → HTML, CSS, JavaScript, PHP, Flutter  
-- 🎨 **UI/UX Design** → Figma, Canva, Design Thinking  
-- ⚙️ **Tools** → Git, GitHub, Visual Studio Code, Arduino IDE  
-- 🌐 **Languages** → Dart, C++, Python, JavaScript
-
-
 
 <h1 align="center">✨ Hi there, I’m <span style="color:#7B68EE"><b>Nabilah Ilmiatus Shalihah</b></span> 👋</h1>
 
