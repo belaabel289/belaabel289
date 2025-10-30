@@ -10,10 +10,11 @@ Informatics Student | Tech & Nature Enthusiast | Explorer of Life’s Beautiful 
 
 ### 🎓 Academic Information
 - 🏫 **University:** UIN Maulana Malik Ibrahim Malang  
-- 💡 **Major:** Informatics Engineering  
-- 🆔 **Student ID (NIM):** 230605110155  
-- 🏷️ **Class:** C  
-- 📱 **Course:** Mobile Programming Practicum (Midterm Project – Odd Semester 2025/2026)
+- 💡 **Major  :** Informatics Engineering  
+- 🆔 **ID     :** 230605110155  
+- 🏷️ **Class  :** C  
+- 📱 **Course :** Mobile Programming Practicum
+  (Midterm Project – Odd Semester 2025/2026)
 
 ---
 
@@ -38,7 +39,7 @@ I believe every journey leads us closer to becoming our best selves. 🌱
 ---
 
 ### 🌿 Nature & Life
-> Hiking · Rock Climbing · Swimming · Rafting · Beach Escapes 🌊  
+> Hiking · Climbing · Swimming · Rafting · Beach Escapes 🌊  
 > Nature has always been my place of peace and inspiration.
 
 ---
@@ -76,5 +77,5 @@ I believe every journey leads us closer to becoming our best selves. 🌱
 <p align="center" style="font-style:italic; color:#C9A7EB;">
 ✨ “Code with curiosity, create with passion, and live with balance.” 🌙  
 </p>
-arning, Keep Growing, and Stay Curious!” ✨
+
 </p>
