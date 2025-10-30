@@ -50,6 +50,15 @@ I believe every journey leads us closer to becoming our best selves. 🌱
 
 ---
 
+## 🩵 My Learning Journey in Mobile Programming
+
+| No | Minggu ke | Praktikum ke | Topik | Laporan Praktikum | Repository | 
+|----|------------|--------------|--------|--------------------|-------------|
+| 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan |  |  
+| 2 | 01 | 01 | Widget Row dan Column |  |  |  |
+| 11 | 07 | 07 | State Management dengan GetX | - | [MODUL-11](https://github.com/belaabel289/MODUL-11-GET-X) |
+| 12 | 08 | 08 | Ujian Tengah Semester | [Laporan UTS](https://drive.google.com/drive/u/0/folders/1hUMDy-_-HroB1J8dd2xs6D-WIyiH2h6Q?lfhs=2) | [Repo UTS](https://github.com/belaabel289/UTS) | 
+
 ### ☕ Fun Fact
 > Not everyone is born to conquer the world of code —  
 > but everyone has their own path to define success.  
