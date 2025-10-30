@@ -3,7 +3,7 @@
 
 <p align="center" style="font-style:italic; color:#6A5ACD;">
 Informatics Student | Tech & Nature Enthusiast | Explorer of Life’s Beautiful Challenges 🌿<br/>
-🌍 Fluent in English, learning Arabic, and fascinated by every new language and experience 🌙
+🌍 learning in English and Arabic, and fascinated by every new language and experience 🌙
 </p>
 
 ---
