@@ -54,7 +54,7 @@ Nature has always been my place of peace and inspiration.
 
 | No | Tanggal | Praktikum ke | Topik | Laporan Praktikum | Repository | 
 |----|-----------|---------|----------------|----------------|-------------|
-| 1 | 03-09-2025 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan |  |  
+| 1 | 03-09-2025 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [LAPORAN 1](https://drive.google.com/drive/u/0/folders/1b-YiRSM3qQ-vJhrRLw6EUDj7M9w3BokY?lfhs=2) | [MODUL 1](https://github.com/belaabel289/MODUL1) |
 | 2 | 03-09-2025 | 01 | Widget Row dan Column |  |  |  |
 | 3 | 10-09-2025 | 02 | Pengaturan Layout Row & Column |  |  |  |
 | 4 | 10-09-2025 | 02 | Widget Flexibel & Expanded |  |  |  |
@@ -66,7 +66,7 @@ Nature has always been my place of peace and inspiration.
 | 10 | 15-9-2025 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter |  |  |  |
 | 11 | 22-10-2025 | 07 | State Management dengan GetX | - | [MODUL 11](https://github.com/belaabel289/MODUL-11-GET-X) |
 | 12 | 29-10-2025 | 08 | Ujian Tengah Semester | [Laporan UTS](https://drive.google.com/drive/u/0/folders/1hUMDy-_-HroB1J8dd2xs6D-WIyiH2h6Q?lfhs=2) | [Repo UTS](https://github.com/belaabel289/UTS) | 
-| 13 | 5-11-2025 | 09 | Akses Lokasi dengan GPS di Flutter | [MODUL 12](https://drive.google.com/drive/u/0/folders/1FwbVyRR0jzCoDPqJotPUQmLhn-ADEfx9?lfhs=2) | [MODUL 12](https://github.com/belaabel289/MODUL12/blob/main/lib/main.dart) | 
+| 13 | 5-11-2025 | 09 | Akses Lokasi dengan GPS di Flutter | [LAPORAN 12](https://drive.google.com/drive/u/0/folders/1FwbVyRR0jzCoDPqJotPUQmLhn-ADEfx9?lfhs=2) | [MODUL 12](https://github.com/belaabel289/MODUL12/blob/main/lib/main.dart) | 
 ### ☕ Fun Fact
 <p Not everyone is born to conquer the world of code — but everyone has their own path to define success.  
 > I believe **success isn’t always about mastering everything**, sometimes it’s simply about having the courage to try, to keep learning, and to respect how others grow at their own pace. 
