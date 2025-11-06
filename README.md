@@ -55,7 +55,7 @@ Nature has always been my place of peace and inspiration.
 | No | Tanggal | Praktikum ke | Topik | Laporan Praktikum | Repository | 
 |----|-----------|---------|----------------|----------------|-------------|
 | 1 | 03-09-2025 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [LAPORAN 1](https://drive.google.com/drive/u/0/folders/1b-YiRSM3qQ-vJhrRLw6EUDj7M9w3BokY?lfhs=2) | [MODUL 1](https://github.com/belaabel289/MODUL1) |
-| 2 | 03-09-2025 | 01 | Widget Row dan Column |  |  |  |
+| 2 | 03-09-2025 | 01 | Widget Row dan Column | [LAPORAN 2](https://drive.google.com/drive/u/0/folders/1QzDqFas-n4cA6kHYLK1PGUPyXw9Jk0EN?lfhs=2) | [MODUL 2](https://github.com/belaabel289/MODUL2) |  |
 | 3 | 10-09-2025 | 02 | Pengaturan Layout Row & Column |  |  |  |
 | 4 | 10-09-2025 | 02 | Widget Flexibel & Expanded |  |  |  |
 | 5 | 17-09-2025 | 03 | Widget Sizedbox, Spacer and Card |  |  |  |
