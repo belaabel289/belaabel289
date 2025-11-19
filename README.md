@@ -67,6 +67,7 @@ Nature has always been my place of peace and inspiration.
 | 11 | 22-10-2025 | 07 | State Management dengan GetX | - | [Repo11](https://github.com/belaabel289/MODUL-11-GET-X) |
 | 12 | 29-10-2025 | 08 | Ujian Tengah Semester | [Laporan UTS](https://drive.google.com/drive/u/0/folders/1hUMDy-_-HroB1J8dd2xs6D-WIyiH2h6Q?lfhs=2) | [Repo UTS](https://github.com/belaabel289/UTS) | 
 | 13 | 5-11-2025 | 09 | Akses Lokasi dengan GPS di Flutter | [Laprak12](https://drive.google.com/drive/u/0/folders/1FwbVyRR0jzCoDPqJotPUQmLhn-ADEfx9?lfhs=2) | [Repo12](https://github.com/belaabel289/MODUL12/blob/main/lib/main.dart) | 
+| 14 | 19-11-2025 | 10 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laprak13]([https://drive.google.com/drive/u/0/folders/1FwbVyRR0jzCoDPqJotPUQmLhn-ADEfx9?lfhs=2](https://drive.google.com/drive/u/0/folders/1gbsOw1wC1UlE1uK91qjESx7JhDaGi4Cr?lfhs=2) | [Repo13](https://github.com/belaabel289/MODUL13) | 
 ### ☕ Fun Fact
 <p Not everyone is born to conquer the world of code — but everyone has their own path to define success.  
 > I believe **success isn’t always about mastering everything**, sometimes it’s simply about having the courage to try, to keep learning, and to respect how others grow at their own pace. 
