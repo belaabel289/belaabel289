@@ -58,7 +58,7 @@ Nature has always been my place of peace and inspiration.
 | 2 | 03-09-2025 | 01 | Widget Row dan Column | [Laprak2](https://drive.google.com/drive/u/0/folders/1QzDqFas-n4cA6kHYLK1PGUPyXw9Jk0EN?lfhs=2) | [Repo2](https://github.com/belaabel289/MODUL2) |  |
 | 3 | 10-09-2025 | 02 | Pengaturan Layout Row & Column | [Laprak3](https://drive.google.com/drive/u/0/folders/1nXxJd64yifAjV5Wa_cTI0hE_cQXiWbSq?lfhs=2) | [Repo3](https://github.com/belaabel289/MODUL3) |
 | 4 | 10-09-2025 | 02 | Widget Flexibel & Expanded | [Laprak4](https://drive.google.com/drive/u/0/folders/15jED0lji62Fc3st0ib-EK-tETLkJuwtl?lfhs=2) | [Repo4](https://github.com/belaabel289/MODUL4) |  
-| 5 | 17-09-2025 | 03 | Widget Sizedbox, Spacer and Card | [Laprak5](https://drive.google.com/drive/u/0/folders/1eTH6DDo6Zv5pV4IJCWa3KDIgLr6kkOjA?lfhs=2) | [Repo5]() |  
+| 5 | 17-09-2025 | 03 | Widget Sizedbox, Spacer and Card | [Laprak5](https://drive.google.com/drive/u/0/folders/1eTH6DDo6Zv5pV4IJCWa3KDIgLr6kkOjA?lfhs=2) | [Repo5](https://github.com/belaabel289/MODUL5) |  
 | 6 | 17-09-2025 | 03 | Widget GridView, ListView, GridView.builder, dan ListView.builder |  |  |  |
 | 7 | 24-09-2025 | 04 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route |  |  |  |
 | 8 | 24-09-2025 | 04 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route |  |  |  |
